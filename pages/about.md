@@ -31,7 +31,7 @@ permalink: /about/
 
 #### Mobile Developer Keywords
 <div class="btn-inline">
-    {% for keyword in site.skill_mobile_app_keywords %}
+    {% for keyword in site.skill_technological_framework_keywords %}
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
     {% endfor %}
 </div>
