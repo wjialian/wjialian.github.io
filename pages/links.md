@@ -10,7 +10,7 @@ permalink: /links/
 
 > God made relatives. Thank God we can choose our friends.
 
-* [Connie酱](http://biedan.org)
-* [只宁静不致远](http://zxning.github.io/)
-* [Blog Something](http://chenxiaoyoyo.github.io)
-* [码志](http://mazhuang.org)
+* [美团点评技术团队](http://tech.meituan.com/)
+* [阿里技术沙龙](http://club.alibabatech.org/)
+* [天池](https://tianchi.shuju.aliyun.com/)
+* [Nekoの喵窝](http://nekomiao.me/)
